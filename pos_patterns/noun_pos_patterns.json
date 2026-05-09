@@ -1,0 +1,27 @@
+[
+  {
+    "category": "NOUN follows NOUN",
+    "pattern": "NOUN_compound - NOUN_nsubj - X - X - X",
+    "example": "donor dad using the internet"
+  },
+  {
+    "category": "NOUN follows NOUN",
+    "pattern": "NOUN_compound - NOUN_ROOT - X - X - X",
+    "example": "trojan hero over to the"
+  },
+  {
+    "category": "NOUN follows NOUN",
+    "pattern": "NOUN_nsubj - X - X - NOUN_attr - X",
+    "example": "earners that are women say"
+  },
+  {
+    "category": "NOUN follows PROPN",
+    "pattern": "PROPN_compound - NOUN_ROOT - X - X - X",
+    "example": "invercargill female to handle in"
+  },
+  {
+    "category": "NOUN follows PRON",
+    "pattern": "PRON_nsubj - X - X - NOUN_attr - X",
+    "example": "she is a diva with"
+  }
+]

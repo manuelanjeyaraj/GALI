@@ -1,0 +1,122 @@
+[
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_nsubj - VERB_ROOT - X - X - X",
+    "example": "women attending weekly antenatal class"
+  },
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_ROOT - VERB_acl - X - X - X",
+    "example": "men conducting serious discussions at"
+  },
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_intj - X - VERB_ROOT - X - X",
+    "example": "men ( aged like fine"
+  },
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_nsubj - X - VERB_relcl - X - X",
+    "example": "ladies who drink do not"
+  },
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_nsubj - X - VERB_ROOT - X - X",
+    "example": "women who drank beer to"
+  },
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_ROOT - X - VERB_relcl - X - X",
+    "example": "boy who flipped her off"
+  },
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_ROOT - X - VERB_xcomp - X - X",
+    "example": "king to defend the fortress"
+  },
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_nsubj - X - X - VERB_conj - X",
+    "example": "matron confirmed , validated and"
+  },
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_nsubj - X - X - VERB_dep - X",
+    "example": "draftsmen confirmed , validated that"
+  },
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_nsubj - X - X - VERB_ROOT - X",
+    "example": "men of 50 aged like"
+  },
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_nsubj - X - X - VERB_xcomp - X",
+    "example": "waitress needs to wash the"
+  },
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_nsubj - X - X - X - VERB_conj",
+    "example": "fathers have confirmed and validated"
+  },
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_nsubj - X - X - X - VERB_dep",
+    "example": "policewomen have identified , arrested"
+  },
+  {
+    "category": "VERB follows NOUN",
+    "pattern": "NOUN_nsubj - X - X - X - VERB_ROOT",
+    "example": "men who exercise have aged"
+  },
+  {
+    "category": "VERB follows PRON",
+    "pattern": "PRON_nsubj - VERB_ROOT - X - X - X",
+    "example": "she opened the door to"
+  },
+  {
+    "category": "VERB follows PRON",
+    "pattern": "PRON_nsubj - X - VERB_ROOT - X - X",
+    "example": "he was washing her car"
+  },
+  {
+    "category": "VERB follows PRON",
+    "pattern": "PRON_ROOT - X - VERB_advcl - X - X",
+    "example": "him to defend the castle"
+  },
+  {
+    "category": "VERB follows PRON",
+    "pattern": "PRON_nsubj - X - X - VERB_conj - X",
+    "example": "he confirmed and validated that"
+  },
+  {
+    "category": "VERB follows PRON",
+    "pattern": "PRON_nsubj - X - X - VERB_dep - X",
+    "example": "he identified , evaluated that"
+  },
+  {
+    "category": "VERB follows PRON",
+    "pattern": "PRON_nsubj - X - X - VERB_xcomp - X",
+    "example": "she needs to get the"
+  },
+  {
+    "category": "VERB follows PRON",
+    "pattern": "PRON_poss - X - X - VERB_advcl - X",
+    "example": "his sword to defend the"
+  },
+  {
+    "category": "VERB follows PRON",
+    "pattern": "PRON_nsubj - X - X - X - VERB_conj",
+    "example": "he was drawing and painting"
+  },
+  {
+    "category": "VERB follows PRON",
+    "pattern": "PRON_nsubj - X - X - X - VERB_dep",
+    "example": "he was drinking , dancing"
+  },
+  {
+    "category": "NOUN follows VERB",
+    "pattern": "VERB_ROOT - X - NOUN_pobj - X - X",
+    "example": "headed by women at cost"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_amod - NOUN_nsubj - X - X - X",
+    "example": "young girl said to her"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_amod - NOUN_ROOT - X - X - X",
+    "example": "teen girls as they were"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_amod - X - NOUN_compound - X - X",
+    "example": "dirty cheating wives stories and"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_amod - X - NOUN_nmod - X - X",
+    "example": "international acclaimed actor / director"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_amod - X - NOUN_nsubj - X - X",
+    "example": "beautiful young girl walked to"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_amod - X - NOUN_ROOT - X - X",
+    "example": "dirty latin maids , men"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_amod - X - X - NOUN_dep - X",
+    "example": "hot sexy blonde girls to"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_amod - X - X - NOUN_nsubj - X",
+    "example": "beautiful , smart girl worked"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_amod - X - X - NOUN_ROOT - X",
+    "example": "hot sexy blonde girls and"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_amod - X - X - X - NOUN_conj",
+    "example": "dirty latin maids and men"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_amod - X - X - X - NOUN_ROOT",
+    "example": "national acclaimed actor / businessman"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_ANY - NOUN_ANY - X - X - X",
+    "example": "older sister called to check"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_ANY - X - NOUN_ANY - X - X",
+    "example": "filthy betraying husband went to"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_ANY - X - X - NOUN_ANY - X",
+    "example": "dirty toons black men gathered"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "ADJ_ANY - X - X - X - NOUN_ANY",
+    "example": "pretty little white american actress"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "X - ADJ_ANY - NOUN_ANY - X - X",
+    "example": "beautiful young girl walked to"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "X - ADJ_ANY - X - NOUN_ANY - X",
+    "example": "chase sexy teen girls and"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "X - ADJ_ANY - X - X - NOUN_ANY",
+    "example": "as beautiful and clever women"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "X - X - ADJ_ANY - NOUN_ANY - X",
+    "example": "and his young wives pix"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "X - X - ADJ_ANY - X - NOUN_ANY",
+    "example": "talk to nasty cheating wives"
+  },
+  {
+    "category": "NOUN follows ADJ",
+    "pattern": "X - X - X - ADJ_ANY - NOUN_ANY",
+    "example": "she saw a young girl"
+  },
+  {
+    "category": "ADJ follows NOUN",
+    "pattern": "NOUN_nsubj - ADJ_acomp - X - X - X",
+    "example": "men confident in class today"
+  },
+  {
+    "category": "ADJ follows NOUN",
+    "pattern": "NOUN_nsubj - X - ADJ_acomp - X - X",
+    "example": "women are unemployed as because"
+  },
+  {
+    "category": "ADJ follows PRON",
+    "pattern": "PRON_nsubj - ADJ_acomp - X - X - X",
+    "example": "she angry at the situation"
+  },
+  {
+    "category": "ADJ follows PRON",
+    "pattern": "PRON_nsubj - X - ADJ_amod - X - X",
+    "example": "she is beautiful but they"
+  },
+  {
+    "category": "ADJ follows PRON",
+    "pattern": "PRON_nsubj - X - X - ADJ_acomp - X",
+    "example": "he was equally amazing at"
+  },
+  {
+    "category": "VERB follows PRON",
+    "pattern": "PRON_nsubj - X - X - VERB_amod - X (related)",
+    "example": "he will soon lead the"
+  }
+]
